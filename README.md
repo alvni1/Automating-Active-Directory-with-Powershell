@@ -44,4 +44,3 @@ Commands were used to display different data, which in this case is users that h
 
 Organization Units (OUs) within Active Directory allows you to group objects such as user accounts. Adminstrators can be assigned to specific OUs and can apply group policy for certain configuration settings. 
 ![Screenshot 2025-01-05 175536](https://github.com/user-attachments/assets/91e2845b-6912-4684-8d1a-14f9ef6c8790)
-![VirtualBox_DC_09_01_2025_23_29_56](https://github.com/user-attachments/assets/2f9a26ff-8f8a-4a5c-8de1-c33bd4e13667)
